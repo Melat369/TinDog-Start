@@ -64,12 +64,15 @@
     color:#fff;
     font-family: 'Montserrat-bold', sans-serif;
     text-align:center;
-    padding:7% 15%;
     line-height:1.5;
 }
 #testimonials h2{
     font-weight:800;
     font-size:3rem;
+
+}
+.carousel-item{
+    padding:7% 15%;
 
 }
 .testimonial-img{
@@ -82,6 +85,7 @@
 #press{
     background-color:#ef8172;
     text-align:center;
+    padding-bottom:4%;
     
 }
 #press img{
