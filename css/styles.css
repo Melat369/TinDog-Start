@@ -47,6 +47,7 @@
 .feature{
     font-family: 'Montserrat', sans-serif;
     padding:6% 0;
+    background-color:#ffff;
 }
 .services{
     font-family: 'Montserrat', sans-serif;
@@ -91,4 +92,12 @@
 #press img{
     width:15%;
     margin:20px 20px 50px;
+}
+#pricing{
+    padding:100px;
+   text-align:center;
+}
+.padding-column{
+    padding:3% 3%;
+
 }
