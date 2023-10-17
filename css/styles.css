@@ -1,5 +1,7 @@
 #title {
     background-color: #ff4c68;
+    position: relative;
+    z-index: -1;
 }
 .navy{
     background-color: #ff4c68;
@@ -22,8 +24,12 @@
     text-align:space-between;
 }
 .imgContainer{
-    width:60%;
+    width:50%;
     transform: translateY(20px) rotate(15deg);
+    position:relative;
+    top:18%;
+    left:12%;
+
 }
 .navbar-brand{
     font-family: 'Ubuntu', sans-serif;}
@@ -46,8 +52,10 @@
 }
 .feature{
     font-family: 'Montserrat', sans-serif;
-    padding:6% 0;
+    padding:10% 0;
     background-color:#ffff;
+    position:relative;
+    z-index:1;
 }
 .services{
     font-family: 'Montserrat', sans-serif;
