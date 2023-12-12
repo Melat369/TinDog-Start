@@ -107,3 +107,29 @@
     padding:3% 3%;
 
 }
+@media (max-width:1000px){
+    #title{
+        text-align: center;
+    }
+    .imgContainer{
+        position: static;
+        transform:rotate(0);
+        width: 50%;
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 5%;
+}
+.cta{
+    color: #ffff;
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 800;
+    padding: 10%;
+    
+}
+#footer{
+    padding: 4%;
+}
